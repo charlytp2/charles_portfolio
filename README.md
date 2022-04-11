@@ -2,10 +2,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center"> 
-  <h3 align="center">Sample Portfolio Template</h3>
+  <h3 align="center">Portfolio</h3>
 
   <p align="center">
-    An awesome Portfolio template to jumpstart your Carrier!
+    My Portfolio
     <br />
     <a href="https://charlytp2.github.io/charles_portfolio/">View Demo</a>
   </p>
