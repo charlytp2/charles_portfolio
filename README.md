@@ -7,7 +7,7 @@
   <p align="center">
     An awesome Portfolio template to jumpstart your Carrier!
     <br />
-    <a href="">View Demo</a>
+    <a href="https://charlytp2.github.io/charles_portfolio/">View Demo</a>
   </p>
 </div>
 
@@ -16,8 +16,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is about how to create a basic and simple portfilio using HTML, CSS, and Javascript. Students can use this project to show case there skills with this portfolio.
-We added a new design with some animations so that it looks cool and beautiful. Attracts more audiance to get you Hire.
+Charles Akunaifa's Original Career Portfolio.
 <!-- GETTING STARTED -->
 
 ### How to run
